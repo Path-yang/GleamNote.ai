@@ -1,5 +1,5 @@
 # GleamNote.ai
-# Gleam 🌟
+# Gleam 
 
 > Capture what matters from any video, in any language.
 
